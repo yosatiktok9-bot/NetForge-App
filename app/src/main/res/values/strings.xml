@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetForge</string>
+    <string name="app_tagline">Private routing, plainly done</string>
+    <string name="notif_channel_tunnel">NetForge Tunnel</string>
+    <string name="notif_title_active">NetForge active</string>
+    <string name="notif_action_end">End session</string>
+    <string name="notif_action_open">Open NetForge</string>
+    <string name="error_e001">Invalid profile format</string>
+    <string name="error_e002">Corrupted .nfg file</string>
+    <string name="error_e003">Decryption failed</string>
+    <string name="error_e004">Signature verification failed</string>
+    <string name="error_e005">Expired profile</string>
+    <string name="error_e006">Device binding mismatch</string>
+    <string name="error_e007">Limits exceeded</string>
+    <string name="error_e008">Tunnel connection failed</string>
+    <string name="error_e009">VPN permission denied</string>
+    <string name="error_e010">Network unavailable</string>
+    <string name="intro_title_welcome">Welcome to NetForge</string>
+    <string name="intro_title_modes">7 Connection Modes</string>
+    <string name="intro_title_ready">Ready to connect</string>
+    <string name="home_status_disconnected">Disconnected</string>
+    <string name="home_status_connecting">Connecting…</string>
+    <string name="home_status_connected">Connected</string>
+    <string name="home_status_failing">Connection failed</string>
+    <string name="battery_unrestricted">Unrestricted</string>
+    <string name="battery_restricted">Restricted</string>
+    <string name="battery_fix_now">Fix now</string>
+</resources>

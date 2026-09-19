@@ -1,0 +1,7 @@
+NFG1
+[identity]
+name=Sample Profile
+host=example.com
+port=443
+mode=wrapped
+payloadMode=tls
